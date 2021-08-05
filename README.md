@@ -2,7 +2,7 @@
 Yet another spongebob-themed sarcasm string manipulator
 
 ## What is it?
-It will be an npm package eventually!
+It is an npm package.
 
 ## What does it do?
 It takes in a string and (pseudo) randomly makes the letters uppercase or lowercase.

@@ -1,7 +1,18 @@
 {
   "name": "stringbob",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yet another spongebob string manipulator",
+  "keywords": [
+    "string",
+    "string manipulation",
+    "sponge bob",
+    "capitalize",
+    "uppercase",
+    "lowercase",
+    "sarcasm",
+    "case",
+    "convert"
+  ],
   "main": "dist/stringbob.cjs.js",
   "module": "dist/stringbob.esm.js",
   "browser": "dist/stringbob.umd.js",
