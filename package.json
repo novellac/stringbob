@@ -1,0 +1,26 @@
+{
+  "name": "stringbob",
+  "version": "1.0.0",
+  "description": "Yet another spongebob string manipulator",
+  "main": "dist/stringbob.cjs.js",
+  "module": "dist/stringbob.esm.js",
+  "browser": "dist/stringbob.umd.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.9",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-commonjs": "^20.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.4",
+    "rollup": "^2.55.1"
+  }
+}
