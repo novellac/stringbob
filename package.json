@@ -1,6 +1,6 @@
 {
   "name": "stringbob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another spongebob string manipulator",
   "main": "dist/stringbob.cjs.js",
   "module": "dist/stringbob.esm.js",
@@ -9,8 +9,9 @@
     "build": "rollup -c",
     "dev": "rollup -c -w"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "novellac",
+  "repository":"https://github.com/novellac/stringbob.git",
+  "license": "Hippocratic License 2.1",
   "files": [
     "dist",
     "src"
