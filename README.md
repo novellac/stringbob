@@ -1,6 +1,8 @@
 # stringbob
 Yet another spongebob-themed sarcasm string manipulator
 
+**This repository is archived and is out of date. If you want to use it, update all dependencies for security issues. But really, probably don't use it. It was a proof of concept I made for fun.**
+
 ## What is it?
 It is an npm package.
 
